@@ -4,3 +4,6 @@
 .config
 .ssh
 .viminfo
+.npm
+.nvm
+.v8flags*
