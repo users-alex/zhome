@@ -1,3 +1,5 @@
 [user]
 	email = admin@pointlook.com
 	name = Point Look Admin
+[push]
+	default = simple

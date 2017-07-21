@@ -7,3 +7,4 @@
 .npm
 .nvm
 .v8flags*
+.node-gyp
