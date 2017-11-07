@@ -1,0 +1,6 @@
+[ -z $1 ] && exit
+TAG=$1
+git fetch --all --tags --prune
+git checkout tags/${TAG} -b ${TAG}
+git branch -v
+echo "Checking out ${TAG} Done"

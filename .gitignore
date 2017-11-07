@@ -6,5 +6,7 @@
 .viminfo
 .npm
 .nvm
+.vim
+.yarnrc
 .v8flags*
 .node-gyp
