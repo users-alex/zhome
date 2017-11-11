@@ -1,0 +1,5 @@
+GITS=$(find . -name node_modules)
+for gits in $GITS; do
+  echo $gits
+  rm -rf $gits
+done
